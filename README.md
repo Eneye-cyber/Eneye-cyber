@@ -1,16 +1,13 @@
-## Hi there 👋
+![](https://komarev.com/ghpvc/?username=Eneye-cyber&style=plastic&color=red&label=PROFILE+VIEWS)
 
-<!--
-**Eneye-cyber/Eneye-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
 
-Here are some ideas to get you started:
+<div align="center">
+  
+###  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=180D1D&center=true&width=435&lines=Hello+there!+so+pleased+to+meet+you;I'm+the%2C+Full-Stack+Engineer+you've+been+searching+for;Welcome+to+My+Code+Cave;)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Eneye-cyber&theme=dark&hide_border=true)](https://git.io/streak-stats)
