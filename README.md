@@ -14,7 +14,12 @@
 
 </div>
 
+---
+
+## 👨‍💻 About Me
 I'm a passionate **Full Stack Developer** with hands-on experience building MVPs that evolve into production-ready applications. Skilled in creating seamless, scalable web solutions from concept to deployment, I love blending intuitive UIs with robust backends. Let's turn your ideas into high-impact realities!
+
+---
 
 ## 🚀 What I'm Building
 <div align="center">
@@ -28,9 +33,11 @@ I'm a passionate **Full Stack Developer** with hands-on experience building MVPs
 </table>
 </div>
 
+---
+
 ## 🛠️ Tech Stack
 
-### Frontend
+### 🎨 Frontend
 <div align="center">
 <table>
   <tr>
@@ -40,34 +47,36 @@ I'm a passionate **Full Stack Developer** with hands-on experience building MVPs
     <th>Data Fetching</th>
   </tr>
   <tr>
-    <td>
-      <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
-      <img src="https://img.shields.io/badge/Vuex-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
-      <img src="https://img.shields.io/badge/Vuetify-35495E?style=for-the-badge&logo=vuetify&logoColor=4FC08D" />
-      <img src="https://img.shields.io/badge/Vue%20Router-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+    <td align="center">
+      <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" height="30"/><br>
+      <img src="https://img.shields.io/badge/Vuex-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" height="30"/><br>
+      <img src="https://img.shields.io/badge/Vuetify-35495E?style=for-the-badge&logo=vuetify&logoColor=4FC08D" height="30"/><br>
+      <img src="https://img.shields.io/badge/Vue%20Router-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" height="30"/>
     </td>
-    <td>
-      <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white" />
+    <td align="center">
+      <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white" height="30"/>
     </td>
-    <td>
-      <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-      <img src="https://img.shields.io/badge/Shadcn-000000?style=for-the-badge&logo=shadcn&logoColor=white" />
+    <td align="center">
+      <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="30"/><br>
+      <img src="https://img.shields.io/badge/Shadcn-000000?style=for-the-badge&logo=shadcn&logoColor=white" height="30"/>
     </td>
-    <td>
-      <img src="https://img.shields.io/badge/TanStack%20Query-000000?style=for-the-badge&logo=tanstack&logoColor=white" />
+    <td align="center">
+      <img src="https://img.shields.io/badge/TanStack%20Query-000000?style=for-the-badge&logo=tanstack&logoColor=white" height="30"/>
     </td>
   </tr>
   <tr>
-    <td>
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+    <td align="center">
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="30"/><br>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="30"/>
     </td>
     <td colspan="3"></td>
   </tr>
 </table>
 </div>
 
-### Backend & Database
+---
+
+### ⚙️ Backend & Database
 <div align="center">
 <table>
   <tr>
@@ -77,23 +86,29 @@ I'm a passionate **Full Stack Developer** with hands-on experience building MVPs
     <th>Database</th>
   </tr>
   <tr>
-    <td><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white" /></td>
-    <td>
-      <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <td align="center"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" height="30"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="30"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white" height="30"/></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="30"/><br>
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="30"/>
     </td>
   </tr>
 </table>
 </div>
 
-### Design & Fundamentals
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+---
+
+### 🧰 Design & Fundamentals
+<p align="center">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="30"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30"/>
+</p>
+
+---
 
 ## 🌱 Currently Learning
 <div align="center">
@@ -107,11 +122,15 @@ I'm a passionate **Full Stack Developer** with hands-on experience building MVPs
 
 </div>
 
+---
+
 ## 👯 Looking to Collaborate On
 - Open-source Vue or React projects  
 - Full-stack web apps with modern tooling  
 - UI/UX improvements for existing repos  
 - MVP development for innovative startups  
+
+---
 
 ## 🤔 Need Help With?
 <div align="center">
@@ -125,6 +144,8 @@ I'm a passionate **Full Stack Developer** with hands-on experience building MVPs
 
 </div>
 
+---
+
 ## 💬 Ask Me About
 - Best practices for Vue.js ecosystems  
 - Tailwind CSS for rapid prototyping  
@@ -133,28 +154,32 @@ I'm a passionate **Full Stack Developer** with hands-on experience building MVPs
 - Laravel Events and Listeners  
 - Modular architecture for systems  
 
+---
+
 ## 📫 Get in Touch
 <div align="center">
 <table>
   <tr>
     <td align="center" width="33%">
       <a href="mailto:alaoeneye@gmail.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="Email">
       </a>
     </td>
     <td align="center" width="33%">
       <a href="https://ng.linkedin.com/in/eneye-alao-669910155">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn">
       </a>
     </td>
     <td align="center" width="33%">
       <a href="https://twitter.com/alaoeneye">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="30" alt="Twitter">
       </a>
     </td>
   </tr>
 </table>
 </div>
+
+---
 
 ## ⚡ Fun Fact
 I've built an MVP in under 48 hours using React.js and FastAPI—proving that deadlines are just plot twists waiting to happen! ⏱️
