@@ -8,7 +8,7 @@
 
 <div align="center">
   
-###  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=180D1D&center=true&width=435&lines=Hello+there!+so+pleased+to+meet+you;I'm+the+Full-Stack+Engineer+you've+been+searching+for;Welcome+to+My+Code+Cave;)](https://git.io/typing-svg)
+###  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=180D1D&center=true&width=520&lines=Hello+there!+so+pleased+to+meet+you;I'm+the+Full-Stack+Engineer+you've+been+searching+for;Welcome+to+My+Code+Cave;)](https://git.io/typing-svg)
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=Eneye-cyber&theme=dark&hide_border=false&starting_year=2024)](https://git.io/streak-stats)
 
